@@ -36,18 +36,12 @@
 
 ## Experience
 
-**ETRI 한국전자통신연구원 · 제주AX융합연구실** — 연구 인턴 `2026.__ ~ 재직 중`
+**ETRI 한국전자통신연구원 · 제주AX융합연구실** — 연구 인턴 `2026.07.01 ~ ING`
 - MCP(Model Context Protocol) 기반 AI 에이전트 시스템 조사 및 프로토타입 구현
-- 제주 기상 데이터 연동 MCP 서버 자체 개발 (Claude Desktop 연동)
-- LLM / AX 분야 논문 리뷰 및 내부 공유
 
-**기업 AI 교육 과정** — 교육 조교(TA) `20__.__ ~ 20__.__`
+**기업 AI 교육 과정** — 교육 조교(TA) `2025.12 ~ 2026.02`
 - 실무자 대상 AI 실습 세션 운영 및 질의 대응
 - 비전공 수강생 눈높이에 맞춘 교보재 보완
-
-**동일유리 (건축유리 제조)** — IT 컨설팅 프로젝트
-- 수기 Excel 기반 수주관리 프로세스 진단 (AS-IS / TO-BE 설계)
-- 자연어 검색 기반 수주 조회 시스템 아키텍처 제안
 
 **플랩(Flap) 풋살** — 매치 매니저
 - 현장 운영·인원 관리, 서비스 사용자 접점에서의 문제 관찰
@@ -83,33 +77,14 @@
 
 | 연도 | 수상 / 성과 | 주관 |
 |---|---|---|
-| 20__ | **충북대 RISE 창업경진대회 3위** — 닥터팜 | 충북대학교 |
-| 20__ | **캡스톤디자인 수상** — NLP 기반 수강신청 추천 시스템 | 충북대학교 |
-| 20__ | 모의 주식투자 대회 참가 — 테마형 ETF 포트폴리오 운용 | - |
-
----
-
-## Also
-
-- 📊 계량경영학 기반 **DEA / 선형계획법 최적화** 분석 (민감도 분석, Shadow Price 해석)
-- 🧪 Anthropic API로 **최후통첩 게임(Ultimatum Game)** 재현 — LLM의 공정성 규범 행동 분석
-- 📉 LLM 환각(Hallucination) 발생 유형 분석 리포트 작성
-- ⚽ 11년 축구 선수 출신. 오래 버티는 법과 팀으로 이기는 법을 여기서 배웠습니다.
+| 2026 | **충북대 RISE 창업경진대회 3위** — 닥터팜 | 충북대학교 |
+| 2025 | **캡스톤디자인 수상** — NLP 기반 수강신청 추천 시스템 | 충북대학교 |
 
 ---
 
 ## 기술 공부 · Writing
 
-읽고 만든 것은 반드시 글로 정리합니다. 정리되지 않은 지식은 다음에 쓸 수 없다고 생각해서요.
-
 ### 📝 [heecoder.tistory.com](https://heecoder.tistory.com/)
-
-- **AI / LLM** — MCP 서버 구현기, RAG 파이프라인 설계, 환각(hallucination) 대응 전략
-- **Data** — 시계열 예측 검증 방법(Walk-forward), 피처 엔지니어링 회고
-- **CS / 자격증** — 정보처리기사 준비 과정에서 정리한 운영체제·네트워크·DB 노트
-- **회고** — 프로젝트가 끝난 뒤 무엇이 통했고 무엇이 통하지 않았는지
-
-> 기록 습관: 읽은 책은 Notion 서재에, 배운 기술은 블로그에.
 
 ---
 
@@ -139,9 +114,9 @@
 | 채널 | 주소 |
 |---|---|
 | LinkedIn | [linkedin.com/in/YOUR-ID](https://www.linkedin.com/in/YOUR-ID/) |
-| Email | YOUR-EMAIL@example.com |
-| Instagram | [@YOUR-ID](https://www.instagram.com/YOUR-ID/) |
-| KakaoTalk | `YOUR_KAKAO_ID` |
+| Email | huichansin8@gmail.com |
+| Instagram | [@hee.chan01](https://www.instagram.com/hee.chan01/) |
+| KakaoTalk | heechan01 |
 | Blog | [heecoder.tistory.com](https://heecoder.tistory.com/) |
 
 ---
