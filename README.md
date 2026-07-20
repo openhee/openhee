@@ -1,16 +1,153 @@
-### About me
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm openhee!</h1>
-<h3 align="center">A passionate AI developer from South Korea</h3>
+# 신희찬 (Heechan Shin)
 
-- 🌱 I’m currently learning **AI & Data analysis**
+**비즈니스를 이해하는 개발자, 그리고 AI를 실제로 쓰이게 만드는 사람**
 
-- ⚡ Fun fact **I was a soccer player.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hee.chan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hee.chan01" height="30" width="40" /></a>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+<a href="https://heecoder.tistory.com/">
+<img src="https://img.shields.io/badge/Tech%20Blog-heecoder.tistory.com-EC6E1E?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
+---
+
+## About
+
+컴퓨터공학으로 개발을 시작해, **"기술만 아는 개발자보다 문제를 아는 개발자가 살아남는다"** 는 판단으로 경영정보학(MIS)으로 전과했습니다.
+지금은 모델을 만드는 일과, 그 모델이 현장에서 실제로 돌아가게 만드는 일 사이를 잇는 작업에 집중하고 있습니다.
+
+- 🏢 현재 **ETRI 제주AX융합연구실** 연구 인턴 — MCP(Model Context Protocol) 기반 AI 에이전트 시스템
+- 🎓 충북대학교 경영정보학과
+- 🧭 관심사: **Responsible AX**, LLM 에이전트, 예측 모델의 실무 적용
+- 🧑‍🏫 기업 AI 교육 조교 경험 — 기술을 "설명할 수 있는 것"으로 만드는 훈련
+
+---
+
+## Experience
+
+**ETRI 한국전자통신연구원 · 제주AX융합연구실** — 연구 인턴 `2026.__ ~ 재직 중`
+- MCP(Model Context Protocol) 기반 AI 에이전트 시스템 조사 및 프로토타입 구현
+- 제주 기상 데이터 연동 MCP 서버 자체 개발 (Claude Desktop 연동)
+- LLM / AX 분야 논문 리뷰 및 내부 공유
+
+**기업 AI 교육 과정** — 교육 조교(TA) `20__.__ ~ 20__.__`
+- 실무자 대상 AI 실습 세션 운영 및 질의 대응
+- 비전공 수강생 눈높이에 맞춘 교보재 보완
+
+**동일유리 (건축유리 제조)** — IT 컨설팅 프로젝트
+- 수기 Excel 기반 수주관리 프로세스 진단 (AS-IS / TO-BE 설계)
+- 자연어 검색 기반 수주 조회 시스템 아키텍처 제안
+
+**플랩(Flap) 풋살** — 매치 매니저
+- 현장 운영·인원 관리, 서비스 사용자 접점에서의 문제 관찰
+
+---
+
+## Projects
+
+### 🌱 닥터팜 (Dr.Farm) — 농약 추천 SaaS
+농민이 자연어로 물으면 근거 있는 농약 처방을 돌려주는 서비스.
+- **RAG + SQL 하이브리드** 검색 구조로 환각(hallucination) 대신 원문 근거를 제시
+- 13.6만 건 이상의 농약 등록 데이터 정규화 및 벡터화
+- `pgvector` · `Supabase` · `Gemini` · `Next.js`
+- 🏆 충북대 RISE 창업경진대회 **3위**
+
+### 🚲 서울 공공자전거(따릉이) 수요 예측
+"내일 이 대여소에 자전거가 몇 대 필요한가"에 답하는 모델.
+- `HistGradientBoosting` + **Walk-forward validation** (시계열 누수 차단)
+- **RMSE 593.3 / R² 0.9751**
+- 기상·시간·공휴일 파생 변수 설계 및 피처 중요도 해석까지 문서화
+
+### 📚 NLP 기반 수강신청 추천 시스템
+강의계획서를 읽고 학생의 문장 질의에 맞는 과목을 찾아주는 검색 엔진.
+- `TF-IDF` 기반 유사도 매칭 + 형태소 전처리 파이프라인
+- 🏆 캡스톤디자인 수상
+
+### 🤖 Jeju Weather MCP Server
+제주 기상 데이터 기반 관광 추천 MCP 서버. Claude Desktop 연동형 로컬 도구로 구현.
+
+---
+
+## Awards & Achievements
+
+| 연도 | 수상 / 성과 | 주관 |
+|---|---|---|
+| 20__ | **충북대 RISE 창업경진대회 3위** — 닥터팜 | 충북대학교 |
+| 20__ | **캡스톤디자인 수상** — NLP 기반 수강신청 추천 시스템 | 충북대학교 |
+| 20__ | 모의 주식투자 대회 참가 — 테마형 ETF 포트폴리오 운용 | - |
+
+---
+
+## Also
+
+- 📊 계량경영학 기반 **DEA / 선형계획법 최적화** 분석 (민감도 분석, Shadow Price 해석)
+- 🧪 Anthropic API로 **최후통첩 게임(Ultimatum Game)** 재현 — LLM의 공정성 규범 행동 분석
+- 📉 LLM 환각(Hallucination) 발생 유형 분석 리포트 작성
+- ⚽ 11년 축구 선수 출신. 오래 버티는 법과 팀으로 이기는 법을 여기서 배웠습니다.
+
+---
+
+## 기술 공부 · Writing
+
+읽고 만든 것은 반드시 글로 정리합니다. 정리되지 않은 지식은 다음에 쓸 수 없다고 생각해서요.
+
+### 📝 [heecoder.tistory.com](https://heecoder.tistory.com/)
+
+- **AI / LLM** — MCP 서버 구현기, RAG 파이프라인 설계, 환각(hallucination) 대응 전략
+- **Data** — 시계열 예측 검증 방법(Walk-forward), 피처 엔지니어링 회고
+- **CS / 자격증** — 정보처리기사 준비 과정에서 정리한 운영체제·네트워크·DB 노트
+- **회고** — 프로젝트가 끝난 뒤 무엇이 통했고 무엇이 통하지 않았는지
+
+> 기록 습관: 읽은 책은 Notion 서재에, 배운 기술은 블로그에.
+
+---
+
+## Certifications
+
+`정보처리산업기사` · `정보처리기사 필기 합격`
+
+---
+
+## Contact
+
+편하게 연락 주세요. 협업, 프로젝트 제안, 그냥 기술 이야기 모두 환영합니다.
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR-ID/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/YOUR-ID/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/KakaoTalk-YOUR__ID-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=black"/>
+</p>
+
+| 채널 | 주소 |
+|---|---|
+| LinkedIn | [linkedin.com/in/YOUR-ID](https://www.linkedin.com/in/YOUR-ID/) |
+| Email | YOUR-EMAIL@example.com |
+| Instagram | [@YOUR-ID](https://www.instagram.com/YOUR-ID/) |
+| KakaoTalk | `YOUR_KAKAO_ID` |
+| Blog | [heecoder.tistory.com](https://heecoder.tistory.com/) |
+
+---
+
+<div align="center">
+
+*문제를 정의하는 데 시간을 쓰고, 만든 것은 끝까지 돌아가게 합니다.*
+
+</div>
